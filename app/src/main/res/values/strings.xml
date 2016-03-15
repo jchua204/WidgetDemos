@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RelativeProgressButtons</string>
+    <string name="action_settings">Settings</string>
+    <string name= "btnDecrease">Decrease</string>
+    <string name= "btnIncrease">Increase</string>
+    <string name= "strProVal"> </string>
+</resources>
